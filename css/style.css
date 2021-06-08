@@ -10,3 +10,58 @@
 }
 /*Fine header*/
 
+/*Main*/
+.corpo-centrale{
+    margin: 0 auto;
+    width: 97%;
+}
+.sezione-uno{
+    margin-top: 20px;
+}
+h1{
+    font-size: 40px;
+}
+.scritto-da{
+    color: gray;
+}
+.autore{
+    color: blue;
+}
+#data{
+    color: lightgray;
+}
+.foto-Tim{
+    margin-top: 25px;
+}
+.lorem{
+    margin-top: 25px;
+    margin-left: 0;
+}
+#parte-di-testo{
+    background-color: yellow;
+}
+
+thead{
+    background-color: blue;
+}
+
+.riga-uno{
+    background-color: cornflowerblue;
+}
+.riga-tre{
+    background-color: cornflowerblue;
+}
+
+}.riga-due{
+    background-color: azure;
+}
+
+.colonna-uno{
+    width: 300px;
+}
+.colonna-due{
+    width: 300px;
+}
+.colonna-tre{
+    width: 500px;
+}
