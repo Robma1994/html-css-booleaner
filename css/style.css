@@ -1,0 +1,11 @@
+ *{
+     margin: 0;
+ }
+
+.conteiner{
+    width: auto;
+    height: 180px;
+    background-image: url("pattern.png");
+    background-color: blue;
+}
+
